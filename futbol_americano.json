@@ -6,6 +6,7 @@
       "title": "Category Collection",
       "items": [
         {
+          "cellType": "type_6",
           "title": "Conferencia Americana",
           "items": [
             {
@@ -139,6 +140,7 @@
           ]
         },
         {
+          "cellType": "type_6",
           "title": "Conferencia Nacional",
           "items": [
             {
