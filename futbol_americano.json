@@ -14,7 +14,7 @@
             },
             {
               "title": "AFC Este",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Bills",
@@ -44,7 +44,7 @@
             },
             {
               "title": "AFC Norte",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Revens",
@@ -74,7 +74,7 @@
             },
             {
               "title": "AFC Oeste",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Broncos",
@@ -108,7 +108,7 @@
             },
             {
               "title": "AFC Sur",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Texans",
@@ -147,7 +147,7 @@
             },
             {
               "title": "AFC Este",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Cowboys",
@@ -177,7 +177,7 @@
             },
             {
               "title": "AFC Norte",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Bears",
@@ -207,7 +207,7 @@
             },
             {
               "title": "AFC Oeste",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Cardinals",
@@ -237,7 +237,7 @@
             },
             {
               "title": "AFC Sur",
-              "cellType": "collection_4",
+              "cellType": "type_5",
               "items": [
                 {
                   "name": "Cardinals",
