@@ -1,0 +1,9 @@
+debug: default configuration
+mta esta celda no la pude pintar ["cellType": categoryCollection, "adunitid": , "tipo": categoryCollection, "title": Category Collection, "items": <__NSArrayI 0x600000f1dca0>(
+{
+    adunitid = "";
+    cellType = "";
+    href = "";
+    icon = "";
+    id = "";
+    items =    
