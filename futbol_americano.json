@@ -212,22 +212,26 @@
                 {
                   "name": "Cardinals",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-18.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5_item"
                 },
                 {
                   "name": "Rams",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-22.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5_item"
                 },
                 {
                   "name": "49ers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-26.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5_item"
                 },
                 {
                   "name": "Seahawks",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-30.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5_item"
                 }
               ]
             },
