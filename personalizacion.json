@@ -12,15 +12,15 @@
         {
           "name": "Fut Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-0.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
+          "href": "https://jefersonhernandezdev.github.io/futbol.json"
         },
         {
           "name": "Fútbol Americano",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-8.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol_americano.json"
+          "href": "https://jefersonhernandezdev.github.io/futbol_americano.json"
         },
         {
-          "name": "Azteca Home Run",
+          "name": "Beisbol",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-1.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
         },
@@ -66,6 +66,11 @@
         },
         {
           "name": "Azteca Golf",
+          "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-11.png",
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
+        },
+        {
+          "name": "Azteca Home Run",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-11.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
         },
