@@ -2,23 +2,26 @@
   "screen": "Países y Torneos",
   "data": [
     {
-      "cellType": "collection_3",
+      "cellType": "type_2",
       "title": "Selecciona un país para ver sus ligas y equipos",
       "items": [
         {
           "name": "México",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/paises_ligas/Rectangle%20129.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/mexico_ligas_equipos.json"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/mexico_ligas_equipos.json",
+          "cellType": "type_2_item"
         },
         {
           "name": "España",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/paises_ligas/Rectangle%20129-1.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/mexico_ligas_equipos.json"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/mexico_ligas_equipos.json",
+          "cellType": "type_2_item"
         },
         {
           "name": "Estados Unidos",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/paises_ligas/Rectangle%20129-2.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/mexico_ligas_equipos.json"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/mexico_ligas_equipos.json",
+          "cellType": "type_2_item"
         }
       ]
     },
