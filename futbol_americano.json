@@ -45,22 +45,26 @@
                 {
                   "name": "Revens",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Bengals",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-2.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Browns",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-5.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Steelers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-7.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 }
               ]
             },
@@ -71,22 +75,26 @@
                 {
                   "name": "Broncos",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-3.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Chiefs",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-8.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Raiders",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-11.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Chargers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-14.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 }
               ]
             },
@@ -101,22 +109,26 @@
                 {
                   "name": "Texans",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-4.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Colts",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-9.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Jaguars",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-12.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Titans",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-15.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 }
               ]
             }
@@ -136,22 +148,26 @@
                 {
                   "name": "Cowboys",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-16.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Giants",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-20.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Eagles",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-24.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Commanders",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-28.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 }
               ]
             },
@@ -162,22 +178,26 @@
                 {
                   "name": "Bears",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-17.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Lions",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-21.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Packers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-25.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Vikings",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-29.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 }
               ]
             },
@@ -218,22 +238,26 @@
                 {
                   "name": "Cardinals",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-19.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Rams",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-23.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "49ers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-27.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 },
                 {
                   "name": "Seahawks",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-31.png",
-                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                  "cellType": "type_5"
                 }
               ]
             }
