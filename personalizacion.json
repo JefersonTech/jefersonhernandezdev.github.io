@@ -12,13 +12,13 @@
         {
           "name": "Fut Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-0.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
+          "href": "https://jefersonhernandezdev.github.io/futbol.json",
           "id": "tag1"
         },
         {
           "name": "Fútbol Americano",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-8.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol_americano.json",
+          "href": "https://jefersonhernandezdev.github.io/futbol_americano.json",
           "id": "tag2"
         },
         {
