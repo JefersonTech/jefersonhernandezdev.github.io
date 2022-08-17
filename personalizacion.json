@@ -6,44 +6,44 @@
       "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
     },
     {
-      "cellType": "PROFILE_CATEGORY",
+      "cellType": "collection_2",
       "title": "Selecciona tus deportes favoritos",
       "items": [
         {
           "name": "Fut Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-0.png",
-          "href": "https://jefersonhernandezdev.github.io/futbol.json",
-          "cellType": "GameCardView"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
+          "id": "tag1"
         },
         {
           "name": "Fútbol Americano",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-8.png",
-          "href": "https://jefersonhernandezdev.github.io/futbol_americano.json",
-          "cellType": "GameCardView"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol_americano.json",
+          "id": "tag2"
         },
         {
-          "name": "Beisbol",
+          "name": "Azteca Home Run",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-1.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
+          "id": "tag3"
         },
         {
           "name": "Básquetbol",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-7.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
+          "id": "tag4"
         },
         {
           "name": "Tenis",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-2.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
+          "id": "tag5"
         },
         {
           "name": "Automovilísmo",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-9.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
+          "id": "tag6"
         }
       ]
     },
@@ -52,44 +52,33 @@
       "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
     },
     {
-      "cellType": "PROFILE_CATEGORY",
+      "cellType": "collection_2",
       "title": "",
       "items": [
         {
           "name": "Box Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-3.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000",
-          "cellType": "GameCardView"
+          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
         },
         {
           "name": "Azteca eSports",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-10.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
         },
         {
           "name": "Azteca Lucha",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-4.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000",
-          "cellType": "GameCardView"
+          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
         },
         {
           "name": "Azteca Golf",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-11.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
-        },
-        {
-          "name": "Azteca Home Run",
-          "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-11.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "cellType": "GameCardView"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
         },
         {
           "name": "Los Protagonistas",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-6.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000",
-          "cellType": "GameCardView"
+          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
         }
       ]
     },
