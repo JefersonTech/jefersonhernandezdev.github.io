@@ -2,11 +2,10 @@
   "screen": "Futbol Americano - Equipos",
   "data": [
     {
-      "cellType": "type_6",
-      "title": "Category Collection",
+      "cellType": "categoryCollection",
+      "title": "",
       "items": [
         {
-          "cellType": "type_6",
           "title": "Conferencia Americana",
           "items": [
             {
@@ -15,91 +14,79 @@
             },
             {
               "title": "AFC Este",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Bills",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-1.png",
-                  "id": "tagfa1",
-                  "cellType": "type_5_item"
+                  "id": "tagfa01"
                 },
                 {
                   "name": "Dolphins",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-6.png",
-                  "id": "tagfa2",
-                  "cellType": "type_5_item"
+                  "id": "tagfa02"
                 },
                 {
                   "name": "Patriots",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-10.png",
-                  "id": "tagfa3",
-                  "cellType": "type_5_item"
+                  "id": "tagfa03"
                 },
                 {
                   "name": "Jets",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-13.png",
-                  "id": "tagfa4",
-                  "cellType": "type_5_item"
+                  "id": "tagfa04"
                 }
               ]
             },
             {
               "title": "AFC Norte",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Revens",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127.png",
-                  "id": "tagfa5",
-                  "cellType": "type_5_item"
+                  "id": "tagfa05"
                 },
                 {
                   "name": "Bengals",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-2.png",
-                  "id": "tagfa6",
-                  "cellType": "type_5_item"
+                  "id": "tagfa06"
                 },
                 {
                   "name": "Browns",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-5.png",
-                  "id": "tagfa7",
-                  "cellType": "type_5_item"
+                  "id": "tagfa07"
                 },
                 {
                   "name": "Steelers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-7.png",
-                  "id": "tagfa8",
-                  "cellType": "type_5_item"
+                  "id": "tagfa08"
                 }
               ]
             },
             {
               "title": "AFC Oeste",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Broncos",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-3.png",
-                  "id": "tagfa9",
-                  "cellType": "type_5_item"
+                  "id": "tagfa09"
                 },
                 {
                   "name": "Chiefs",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-8.png",
-                  "id": "tagfa10",
-                  "cellType": "type_5_item"
+                  "id": "tagfa10"
                 },
                 {
                   "name": "Raiders",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-11.png",
-                  "id": "tagfa11",
-                  "cellType": "type_5_item"
+                  "id": "tagfa11"
                 },
                 {
                   "name": "Chargers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-14.png",
-                  "id": "tagfa12",
-                  "cellType": "type_5_item"
+                  "id": "tagfa12"
                 }
               ]
             },
@@ -109,38 +96,33 @@
             },
             {
               "title": "AFC Sur",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Texans",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-4.png",
-                  "id": "tagfa13",
-                  "cellType": "type_5_item"
+                  "id": "tagfa13"
                 },
                 {
                   "name": "Colts",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-9.png",
-                  "id": "tagfa14",
-                  "cellType": "type_5_item"
+                  "id": "tagfa14"
                 },
                 {
                   "name": "Jaguars",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-12.png",
-                  "id": "tagfa15",
-                  "cellType": "type_5_item"
+                  "id": "tagfa15"
                 },
                 {
                   "name": "Titans",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-15.png",
-                  "id": "tagfa16",
-                  "cellType": "type_5_item"
+                  "id": "tagfa16"
                 }
               ]
             }
           ]
         },
         {
-          "cellType": "type_6",
           "title": "Conferencia Nacional",
           "items": [
             {
@@ -149,91 +131,79 @@
             },
             {
               "title": "AFC Este",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Cowboys",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-16.png",
-                  "id": "tagfa17",
-                  "cellType": "type_5_item"
+                  "id": "tagfa17"
                 },
                 {
                   "name": "Giants",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-20.png",
-                  "id": "tagfa18",
-                  "cellType": "type_5_item"
+                  "id": "tagfa18"
                 },
                 {
                   "name": "Eagles",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-24.png",
-                  "id": "tagfa19",
-                  "cellType": "type_5_item"
+                  "id": "tagfa19"
                 },
                 {
                   "name": "Commanders",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-28.png",
-                  "id": "tagfa20",
-                  "cellType": "type_5_item"
+                  "id": "tagfa20"
                 }
               ]
             },
             {
               "title": "AFC Norte",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Bears",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-17.png",
-                  "id": "tagfa21",
-                  "cellType": "type_5_item"
+                  "id": "tagfa21"
                 },
                 {
                   "name": "Lions",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-21.png",
-                  "id": "tagfa22",
-                  "cellType": "type_5_item"
+                  "id": "tagfa22"
                 },
                 {
                   "name": "Packers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-25.png",
-                  "id": "tagfa23",
-                  "cellType": "type_5_item"
+                  "id": "tagfa23"
                 },
                 {
                   "name": "Vikings",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-29.png",
-                  "id": "tagfa24",
-                  "cellType": "type_5_item"
+                  "id": "tagfa24"
                 }
               ]
             },
             {
               "title": "AFC Oeste",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Cardinals",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-18.png",
-                  "id": "tagfa25",
-                  "cellType": "type_5_item"
+                  "id": "tagfa25"
                 },
                 {
                   "name": "Rams",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-22.png",
-                  "id": "tagfa26",
-                  "cellType": "type_5_item"
+                  "id": "tagfa26"
                 },
                 {
                   "name": "49ers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-26.png",
-                  "id": "tagfa27",
-                  "cellType": "type_5_item"
+                  "id": "tagfa27"
                 },
                 {
                   "name": "Seahawks",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-30.png",
-                  "id": "tagfa28",
-                  "cellType": "type_5_item"
+                  "id": "tagfa28"
                 }
               ]
             },
@@ -243,31 +213,27 @@
             },
             {
               "title": "AFC Sur",
-              "cellType": "type_5",
+              "cellType": "collection_4",
               "items": [
                 {
                   "name": "Cardinals",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-19.png",
-                  "id": "tagfa29",
-                  "cellType": "type_5_item"
+                  "id": "tagfa29"
                 },
                 {
                   "name": "Rams",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-23.png",
-                  "id": "tagfa30",
-                  "cellType": "type_5_item"
+                  "id": "tagfa30"
                 },
                 {
                   "name": "49ers",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-27.png",
-                  "id": "tagfa31",
-                  "cellType": "type_5_item"
+                  "id": "tagfa31"
                 },
                 {
                   "name": "Seahawks",
                   "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-31.png",
-                  "id": "32",
-                  "cellType": "type_5_item"
+                  "id": "tagfa32"
                 }
               ]
             }
