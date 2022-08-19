@@ -12,38 +12,38 @@
         {
           "name": "Fut Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-0.png",
-          "href": "https://jefersonhernandezdev.github.io/futbol.json",
-          "id": "tag1"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid01"
         },
         {
           "name": "Fútbol Americano",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-8.png",
-          "href": "https://jefersonhernandezdev.github.io/futbol_americano.json",
-          "id": "tag2"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol_americano.json",
+          "sectionId": "jf-00000016b-d782-d4db-a97f-sectionid01"
         },
         {
           "name": "Azteca Home Run",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-1.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "id": "tag3"
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid02"
         },
         {
           "name": "Básquetbol",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-7.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "id": "tag4"
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid03"
         },
         {
           "name": "Tenis",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-2.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "id": "tag5"
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid04"
         },
         {
           "name": "Automovilísmo",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-9.png",
           "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
-          "id": "tag6"
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid05"
         }
       ]
     },
@@ -58,27 +58,32 @@
         {
           "name": "Box Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-3.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid01",
+          "sectionId": "jf-10000016b-d782-d4db-a97f-sectionid01"
         },
         {
           "name": "Azteca eSports",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-10.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid06"
         },
         {
           "name": "Azteca Lucha",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-4.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid02",
+          "sectionId": "jf-20000016b-d782-d4db-a97f-sectionid01"
         },
         {
           "name": "Azteca Golf",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-11.png",
-          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json"
+          "href": "https://tiradodev.github.io/deportestva/personalizacion/futbol.json",
+          "sectionId": "0000016b-d782-d4db-a97f-sectionid07"
         },
         {
           "name": "Los Protagonistas",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/deportes/img-sport-6.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid03",
+          "sectionId": "jf-40000016b-d782-d4db-a97f-sectionid01"
         }
       ]
     },
