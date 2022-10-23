@@ -191,7 +191,7 @@
         "cancel": "Cancelado"
       }
     }
-  },"en": {
+  },"en-US": {
     "general": {
       "notAvailable": "N/D",
       "required": "El campo es requerido",
