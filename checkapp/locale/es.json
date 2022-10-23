@@ -42,7 +42,7 @@
         "problemsToSign": "Problemas para Iniciar",
         "emailPlaceholder": "Ingrese Usuario",
         "passwordPlaceholder": "Ingrese Contraseña",
-        "title": "INICIO DE SESIÓN",
+        "title": "INICIO DE SESIÓN Modificado",
         "userValitedFailure": "No hemos podido validar tu usuario",
         "wrongCredentials": "Usuario y contraseña no coinciden",
         "strongPassword": "La contraseña no debe tener caracteres especiales",
