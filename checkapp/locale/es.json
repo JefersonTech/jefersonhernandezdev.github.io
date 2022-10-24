@@ -118,6 +118,20 @@
         "signIn": "SignIn",
         "otpCode": "otpCode",
         "sendEmail": "sendEmail"
+      },
+      "updatePasswordModal": {
+        "title": "Restablecer contraseña",
+        "currentPassword": "Contraseña Actual",
+        "currentPasswordPlaceholder": "Ingrese su Contraseña actual",
+        "newPassword": "Nueva Contraseña",
+        "confirmPassword": "Repetir Contraseña",
+        "newPasswordPlaceholder": "Ingrese Contraseña",
+        "confirmPasswordPlaceholder": "Repetir Contraseña",
+        "updatePassword": "Actualizar Contraseña",
+        "dontMissMatchPasswords": "Las contraseñas no coinciden",
+        "updatePasswordSuccessfully":
+          "Tu contraseña ha sido actualizada exitosamente",
+        "unnecessaryValidation": "Esta cuenta no requiere validación",
       }
     },
     "main": {
