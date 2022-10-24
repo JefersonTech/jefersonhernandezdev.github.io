@@ -131,7 +131,7 @@
         "dontMissMatchPasswords": "Las contraseñas no coinciden",
         "updatePasswordSuccessfully":
           "Tu contraseña ha sido actualizada exitosamente",
-        "unnecessaryValidation": "Esta cuenta no requiere validación",
+        "unnecessaryValidation": "Esta cuenta no requiere validación"
       }
     },
     "main": {
