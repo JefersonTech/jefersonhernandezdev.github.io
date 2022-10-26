@@ -194,6 +194,11 @@
         "recoveryPassword": "Restablecer mi contraseña",
         "recoveryPasswordTitle": "Reestablecer Contraseña",
         "logout": "Cerrar Sesión"
+      },
+      "questionnaires":{
+        "actionPlan":"Plan de Acción",
+        "next":"Siguiente",
+        "cancel":"Cancelar"
       }
     },
     "questionnaire": {
