@@ -1,166 +1,230 @@
 {
-	"id": 1,
-	"description": "Descripcciones",
-	"instruction": "Esto es una prueba de varios tipos",
-	"status_id": 1,
-	"status": {
-		"description": "Activo"
-	},
-	"create_time": "2022-09-29 20:02:56",
-	"update_time": "2022-09-29 20:02:57",
-	"name": "Cuestionario Uno",
-	"questionnaire_sections": [{
-		"questionnaire_main_id": 1,
-		"title": "Seccion title",
-		"description": null,
-		"status_id": 1,
-		"steps": [{
-				"position": 0,
-				"questionnaire_section_id": 1,
-				"question_id": 1,
-				"question": {
-					"description": "Usan uniforme en la cocina",
-					"title": "Usan uniforme en la cocina",
-					"type_question_id": 1,
-					"type_question": {
-						"description": "simple",
-						"active": 1
-					},
-					"required": 1,
-					"option_group_id": 1,
-					"question_options": [{
-							"score": 100,
-							"position": 0,
-							"option_id": 1,
-							"question_id": 1,
-							"step_id": null,
-							"option": {
-								"description": "Si",
-								"icon_url": null,
-								"color_hex": null,
-								"type": null,
-								"option_group_id": 1,
-								"action_plan_id": null,
-								"action_plan_require": 0
-							}
-						},
-						{
-							"score": 80,
-							"position": 1,
-							"option_id": 2,
-							"question_id": 1,
-							"step_id": null,
-							"option": {
-								"description": "No",
-								"icon_url": null,
-								"color_hex": null,
-								"type": null,
-								"option_group_id": 1,
-								"action_plan_id": null,
-								"action_plan_require": 0
-							}
-						}
-					]
-				}
-			},
-			{
-				"position": 1,
-				"questionnaire_section_id": 1,
-				"question_id": 2,
-				"question": {
-					"description": "Limpiaste el piso principal",
-					"title": "Limpiaste el piso principal",
-					"type_question_id": 1,
-					"type_question": {
-						"description": "simple",
-						"active": 1
-					},
-					"required": 1,
-					"option_group_id": 1,
-					"question_options": [{
-							"score": 100,
-							"position": 0,
-							"option_id": 1,
-							"question_id": 1,
-							"step_id": null,
-							"option": {
-								"description": "Si",
-								"icon_url": null,
-								"color_hex": null,
-								"type": null,
-								"option_group_id": 1,
-								"action_plan_id": null,
-								"action_plan_require": 0
-							}
-						},
-						{
-							"score": 80,
-							"position": 1,
-							"option_id": 2,
-							"question_id": 1,
-							"step_id": null,
-							"option": {
-								"description": "No",
-								"icon_url": null,
-								"color_hex": null,
-								"type": null,
-								"option_group_id": 1,
-								"action_plan_id": null,
-								"action_plan_require": 0
-							}
-						}
-					]
-				}
-			},
-			{
-				"position": 2,
-				"questionnaire_section_id": 1,
-				"question_id": 8,
-				"question": {
-					"description": "Los espejos estan limpios",
-					"title": "Los espejos estan limpios",
-					"type_question_id": 1,
-					"type_question": {
-						"description": "simple",
-						"active": 1
-					},
-					"required": 1,
-					"option_group_id": null,
-					"question_options": [{
-							"score": 100,
-							"position": 0,
-							"option_id": 10,
-							"question_id": 8,
-							"step_id": null,
-							"option": {
-								"description": "Regular",
-								"icon_url": null,
-								"color_hex": null,
-								"type": null,
-								"option_group_id": null,
-								"action_plan_id": null,
-								"action_plan_require": 0
-							}
-						},
-						{
-							"score": 20,
-							"position": 1,
-							"option_id": 11,
-							"question_id": 8,
-							"step_id": null,
-							"option": {
-								"description": "Muy mal",
-								"icon_url": null,
-								"color_hex": null,
-								"type": null,
-								"option_group_id": null,
-								"action_plan_id": null,
-								"action_plan_require": 0
-							}
-						}
-					]
-				}
-			}
-		]
-	}]
+  "id": 1,
+  "description": "Descripcciones",
+  "instruction": "Esto es una prueba de varios tipos",
+  "status_id": 1,
+  "status": {
+    "description": "Activo"
+  },
+  "create_time": "2022-09-29 20:02:56",
+  "update_time": "2022-09-29 20:02:57",
+  "name": "Cuestionario Uno",
+  "questionnaire_sections": [
+    {
+      "questionnaire_main_id": 1,
+      "title": "Seccion title",
+      "description": null,
+      "status_id": 1,
+      "steps": [
+        {
+          "position": 0,
+          "questionnaire_section_id": 1,
+          "question_id": 1,
+          "question": {
+            "description": "Usan uniforme en la cocina",
+            "title": "Usan uniforme en la cocina",
+            "type_question_id": 1,
+            "type_question": {
+              "description": "simple",
+              "active": 1
+            },
+            "required": 1,
+            "option_group_id": 1,
+            "question_options": [
+              {
+                "score": 100,
+                "position": 0,
+                "option_id": 1,
+                "question_id": 1,
+                "step_id": null,
+                "option": {
+                  "description": "Si",
+                  "icon_url": null,
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": 1,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              },
+              {
+                "score": 80,
+                "position": 1,
+                "option_id": 2,
+                "question_id": 1,
+                "step_id": null,
+                "option": {
+                  "description": "No",
+                  "icon_url": null,
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": 1,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "position": 1,
+          "questionnaire_section_id": 1,
+          "question_id": 2,
+          "question": {
+            "description": "Limpiaste el piso principal",
+            "title": "Limpiaste el piso principal",
+            "type_question_id": 1,
+            "type_question": {
+              "description": "simple",
+              "active": 1
+            },
+            "required": 1,
+            "option_group_id": 1,
+            "question_options": [
+              {
+                "score": 100,
+                "position": 0,
+                "option_id": 1,
+                "question_id": 1,
+                "step_id": null,
+                "option": {
+                  "description": "Si",
+                  "icon_url": "M18,3.375A14.625,14.625,0,1,0,32.625,18,14.621,14.621,0,0,0,18,3.375ZM18,29.7A11.7,11.7,0,1,1,29.7,18,11.735,11.735,0,0,1,18,29.7Zm5.119-13.163a2.194,2.194,0,1,0-2.194-2.194A2.154,2.154,0,0,0,23.119,16.538Zm-10.237,0a2.194,2.194,0,1,0-2.194-2.194A2.154,2.154,0,0,0,12.881,16.538ZM18,26.044a7.968,7.968,0,0,0,7.459-5.119H10.541A7.968,7.968,0,0,0,18,26.044Z",
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": 1,
+                  "action_plan_id": 1,
+                  "action_plan_require": 0
+                }
+              },
+              {
+                "score": 80,
+                "position": 1,
+                "option_id": 2,
+                "question_id": 1,
+                "step_id": null,
+                "option": {
+                  "description": "No",
+                  "icon_url": null,
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": 1,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "position": 2,
+          "questionnaire_section_id": 1,
+          "question_id": 8,
+          "question": {
+            "description": "Los espejos estan limpios",
+            "title": "Los espejos estan limpios",
+            "type_question_id": 1,
+            "type_question": {
+              "description": "simple",
+              "active": 1
+            },
+            "required": 1,
+            "option_group_id": null,
+            "question_options": [
+              {
+                "score": 100,
+                "position": 0,
+                "option_id": 10,
+                "question_id": 8,
+                "step_id": null,
+                "option": {
+                  "description": "Regular",
+                  "icon_url": null,
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": null,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              },
+              {
+                "score": 20,
+                "position": 1,
+                "option_id": 11,
+                "question_id": 8,
+                "step_id": null,
+                "option": {
+                  "description": "Muy mal",
+                  "icon_url": null,
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": null,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "questionnaire_main_id": 2,
+      "title": "Seccion title otro",
+      "description": null,
+      "status_id": 1,
+      "steps": [
+        {
+          "position": 0,
+          "questionnaire_section_id": 4,
+          "question_id": 7,
+          "question": {
+            "description": "Como te sientes en el trabajo",
+            "title": "Como te sientes en el trabajo",
+            "type_question_id": 4,
+            "type_question": {
+              "description": "afectiva simple",
+              "active": 1
+            },
+            "required": 1,
+            "option_group_id": null,
+            "question_options": [
+              {
+                "score": 100,
+                "position": 0,
+                "option_id": 6,
+                "question_id": 7,
+                "step_id": null,
+                "option": {
+                  "description": "Feliz",
+                  "icon_url": "https://i.pinimg.com/originals/a2/d0/90/a2d090d6f196c60045fb12f3000d93ed.png",
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": 2,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              },
+              {
+                "score": 100,
+                "position": 1,
+                "option_id": 8,
+                "question_id": 7,
+                "step_id": null,
+                "option": {
+                  "description": "Triste",
+                  "icon_url": "https://i.pinimg.com/736x/9f/3a/7a/9f3a7a2fb47f249e2c29dab6ca43e86d.jpg",
+                  "color_hex": null,
+                  "type": null,
+                  "option_group_id": 2,
+                  "action_plan_id": null,
+                  "action_plan_require": 0
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }
