@@ -225,6 +225,117 @@
           }
         }
       ]
-    }
+    },
+    {
+			"questionnaire_main_id": 2,
+			"title": "Seccion title",
+			"description": null,
+			"status_id": 1,
+			"steps": [{
+					"position": 0,
+					"questionnaire_section_id": 2,
+					"question_id": 4,
+					"question": {
+						"description": "Limpiaste los baños",
+						"title": "Limpiaste los baños",
+						"type_question_id": 3,
+						"type_question": {
+							"description": "libre",
+							"active": 1
+						},
+						"required": 1,
+						"option_group_id": null,
+						"question_options": [{
+							"score": 100,
+							"position": 0,
+							"option_id": null,
+							"question_id": 4,
+							"step_id": null
+						}]
+					}
+				},
+				{
+					"position": 1,
+					"questionnaire_section_id": 2,
+					"question_id": 6,
+					"question": {
+						"description": "Hay buena iluminacion",
+						"title": "Hay buena iluminacion",
+						"type_question_id": 2,
+						"type_question": {
+							"description": "multiple",
+							"active": 1
+						},
+						"required": 1,
+						"option_group_id": null,
+						"question_options": [{
+								"score": 100,
+								"position": 0,
+								"option_id": 12,
+								"question_id": 6,
+								"step_id": null,
+								"option": {
+									"description": "Falta en pocas oficinas",
+									"icon_url": null,
+									"color_hex": null,
+									"type": null,
+									"option_group_id": null,
+									"action_plan_id": null,
+									"action_plan_require": 0
+								}
+							},
+							{
+								"score": 80,
+								"position": 1,
+								"option_id": 13,
+								"question_id": 6,
+								"step_id": null,
+								"option": {
+									"description": "La zona de comidas esta bien",
+									"icon_url": null,
+									"color_hex": null,
+									"type": null,
+									"option_group_id": null,
+									"action_plan_id": null,
+									"action_plan_require": 0
+								}
+							},
+							{
+								"score": 60,
+								"position": 2,
+								"option_id": 14,
+								"question_id": 6,
+								"step_id": null,
+								"option": {
+									"description": "Hay zonas oscuras",
+									"icon_url": null,
+									"color_hex": null,
+									"type": null,
+									"option_group_id": null,
+									"action_plan_id": null,
+									"action_plan_require": 0
+								}
+							},
+							{
+								"score": 100,
+								"position": 3,
+								"option_id": 9,
+								"question_id": 6,
+								"step_id": null,
+								"option": {
+									"description": "Muy bien",
+									"icon_url": null,
+									"color_hex": null,
+									"type": null,
+									"option_group_id": null,
+									"action_plan_id": null,
+									"action_plan_require": 0
+								}
+							}
+						]
+					}
+				}
+			]
+		}
   ]
 }
