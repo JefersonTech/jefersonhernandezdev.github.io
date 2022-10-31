@@ -129,8 +129,7 @@
         "confirmPasswordPlaceholder": "Repetir Contraseña",
         "updatePassword": "Actualizar Contraseña",
         "dontMissMatchPasswords": "Las contraseñas no coinciden",
-        "updatePasswordSuccessfully":
-          "Tu contraseña ha sido actualizada exitosamente",
+        "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente",
         "unnecessaryValidation": "Esta cuenta no requiere validación"
       }
     },
@@ -139,7 +138,10 @@
         "main": "Principal",
         "schedule": "Agenda",
         "shop": "Tiendas",
-        "profile": "Tu perfil"
+        "profile": "Tu perfil",
+        "myGoals": "Mis Metas",
+        "storeHome": "Planes de Acción",
+        "myStore": "Mi Tienda"
       },
       "shop": {
         "allShops": "Todas las tiendas"
@@ -195,10 +197,31 @@
         "recoveryPasswordTitle": "Reestablecer Contraseña",
         "logout": "Cerrar Sesión"
       },
-      "questionnaires":{
-        "actionPlan":"Plan de Acción",
-        "next":"Siguiente",
-        "cancel":"Cancelar"
+      "rescheduleQuestionnaire": {
+        "title": "Solicitar Cancelación de Cuestionario",
+        "placeholder": "Describa el motivo por el cual solicita cancelar esta aplicación de cuestionario",
+        "back": "Regresar",
+        "confirm": "Confirmar"
+      },
+      "questionnaires": {
+        "actionPlan": "Plan de Acción",
+        "next": "Siguiente",
+        "cancel": "Cancelar",
+        "backToDashboard": "Regresar al Dashboard",
+        "seeActionPlans": "Ver Planes de Acción Generados",
+        "completeTitle": "Genial!",
+        "descriptionDescription": "Has finalizado este cuestionario exitosamente",
+        "openQuestionPlaceholder": "Ingresa tu respuesta",
+        "pauseQuestionnaireTitle": "¿Está seguro que desea pausar este cuestionario?",
+        "pauseQuestionnaireDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "onCancelLabel": "NO",
+        "onConfirmLabel": "SI"
+      },
+      "storeHome": {
+        "allActionPlans": "Planes de Acción General"
+      },
+      "myStore": {
+        "updateInfo": "Actualizar info de Tienda"
       }
     },
     "questionnaire": {
